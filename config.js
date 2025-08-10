@@ -6,7 +6,7 @@ function convertToBool(text, fault = 'true') {
 }
 
 module.exports = {
-SESSION_ID: process.env.SESSION_ID |pk~DtAiWRJD#5ieRaR_tCt0LZQIAzZW46mPAu7WnL7OifLqybMDtK20| "pk~9NIyTD4I#hXSW5cbV9t9Pk7Zu6WNG4Phj4ahPuS25Rzz7NmNaC-w",
+SESSION_ID: process.env.SESSION_ID |pk~DtAiWRJD#5ieRaR_tCt0LZQIAzZW46mPAu7WnL7OifLqybMDtK20| "pk~vgB2BSbR#vq9CiUNvQrtT2GyR-oF1WOKMsbBFRvpMOJWKPhPh0BE",
 AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "true",
 AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "false",
 AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true",
@@ -35,11 +35,11 @@ ANTI_LINK_KICK: process.env.ANTI_LINK_KICK || "true",
 AUTO_VOICE: process.env.AUTO_VOICE || "false",
 AUTO_STICKER: process.env.AUTO_STICKER || "false",
 AUTO_REPLY: process.env.AUTO_REPLY || "false",
-ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "false",
+ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "true",
 PUBLIC_MODE: process.env.PUBLIC_MODE || "true",
 AUTO_TYPING: process.env.AUTO_TYPING || "false",
 READ_CMD: process.env.READ_CMD || "false",
-DEV: process.env.DEV || "254794146821",
+DEV: process.env.DEV || "254719329803",
 ANTI_VV: process.env.ANTI_VV || "true",
 ANTI_DEL_PATH: process.env.ANTI_DEL_PATH || "log",
 AUTO_RECORDING: process.env.AUTO_RECORDING || "false",
